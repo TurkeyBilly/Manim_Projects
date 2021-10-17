@@ -3,6 +3,7 @@ from manim import *
 
 __date__ = "2021.10.15 - 2021.10.17"
 __version__ = "Manim Community Edition v0.11.0"
+__product-link__ = "https://t.bilibili.com/582441580167000977?tab=2"
 '''
 python -m manim render manimlib\Projects\Implicit_graph.manimCE.py -s -pqh
 C:\TDDownload\manim_master_2021.9.5\manin_master_9.5\media\images\Implicit_graph.manimCE\ImplicitFunctionExample_ManimCE_v0.11.0.png
