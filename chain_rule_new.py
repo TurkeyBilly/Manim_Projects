@@ -6,6 +6,9 @@ __manimlib_version__ = "1.5.0*" # With modificationss
 __python_version__ = "3.9.0"
 __start_date__ = "2022.1.24"
 
+# Video Link: 
+# https://youtu.be/xIfsP6H3BS0
+
 commend_line = r'''
 manimgl C:\Users\jiant\anaconda3\envs\manim\projects\GL\chain_rule_new.py
 -o: save and open
